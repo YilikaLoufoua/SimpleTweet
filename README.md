@@ -31,7 +31,9 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://giphy.com/embed/hDxj5quM0AdkZk1dzO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-Link to video on Giphy: https://media.giphy.com/media/hDxj5quM0AdkZk1dzO/giphy.gif
+
+*Link to video on Giphy: https://media.giphy.com/media/hDxj5quM0AdkZk1dzO/giphy.gif*
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
