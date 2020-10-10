@@ -32,9 +32,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/YilikaLoufoua/SimpleTweet/blob/master/walkthrough.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-*Link to video on Giphy: https://media.giphy.com/media/hDxj5quM0AdkZk1dzO/giphy.gif*
-
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
